@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Sarah Yu",
   "dependencies": {
+    "d3": "^3.5.6",
     "flux": "^2.0.1",
     "react": "^0.12.1"
   },
